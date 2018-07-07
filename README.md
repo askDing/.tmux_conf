@@ -8,9 +8,11 @@ Installation
 ------------
 
 '''
+
 - cd 
 - git clone https://github.com/askDing/.tmux.conf.git  
 - ln -s -f .tmux/tmux.conf
+
 '''
 
 If you want to `custmize`  your tmux.conf ,just touch a file named `.tmux.conf.local` :
