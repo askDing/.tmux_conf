@@ -10,7 +10,7 @@ Installation
 
 
 - cd 
-- git clone https://github.com/askDing/.tmux.conf.git  
+- git clone https://github.com/askDing/.tmux_conf.git
 - ln -s -f .tmux/tmux.conf
 
 
